@@ -1,2 +1,2 @@
 # thesis
-This repository contains my masters thesis along with the model and various support materials.
+This repository contains the Vensim model used to investigate the investments required to transition the heavy-duty vehicle sector of New Zealand to hydrogen.
